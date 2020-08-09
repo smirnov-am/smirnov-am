@@ -7,7 +7,7 @@ I'm a software developer since 2015. Web development, data engineering, DevOps.
 [<img align="left" alt="Blog | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rss.svg" />][blog]
 
 
-[<img align="left" alt="Blog | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
+[<img align="left" alt="Blog | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]  
 
 
 **My Top Articles ⚡**
