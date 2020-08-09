@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi there 👋 My name is Alexey Smirnov
 
-<!--
-**smirnov-am/smirnov-am** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer since 2015. Web development, data engineering, DevOps.
 
-Here are some ideas to get you started:
+[<img align="left" alt="LinkedIn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+**My Top Articles ⚡**
+- [Background jobs with Flask](https://smirnov-am.github.io/background-jobs-with-flask/)
+- [Running Flask in production with Docker](https://smirnov-am.github.io/running-flask-in-production-with-docker/)
+- [Securing Flask web applications](https://smirnov-am.github.io/securing-flask-web-applications/)
+
+
+**I’m currently working on 🌱**
+[ccme.link](https://ccme.link) - hosting YouTube community captions
+[emailcourse.net](https://emailcourse.net/) - automatic email campaigns with programming courses
+
+**I’m currently learning 🤔**
+- Rust 🤘 
+- Azure ☁️
+  
+
+
+[linkedin]: https://linkedin.com/in/smirnov-am
