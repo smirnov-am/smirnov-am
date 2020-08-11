@@ -28,6 +28,6 @@ I'm a software developer. Doing Web development, data engineering, DevOps since 
   
 
 
-[linkedin]: https://linkedin.com/in/smirnov-am
+[linkedin]: https://linkedin.com/in/smirnovam
 [blog]: https://smirnov-am.github.io/
 [stackoverflow]: https://stackoverflow.com/users/4947938/alexey-smirnov
