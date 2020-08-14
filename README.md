@@ -20,7 +20,7 @@ I'm a software developer. Doing Web development, data engineering, DevOps since 
 
 [ccme.link](https://ccme.link) - hosting YouTube community captions
 
-[emailcourse.net](https://emailcourse.net/) - automatic email campaigns with programming courses
+[emailcourse.net](https://emailcourse.net/) - automatic email courses delivered to your inbox
 
 ### I’m currently learning 🤔
 - Rust 🤘 
