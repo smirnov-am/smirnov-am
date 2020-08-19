@@ -15,3 +15,7 @@ I'm a software developer. Doing Web development, data engineering, DevOps since 
 - [Speeding up Python code with Cython](https://smirnov-am.github.io/cython/)
 - [Running Flask in production with Docker](https://smirnov-am.github.io/running-flask-in-production-with-docker/)
 - [Securing Flask web applications](https://smirnov-am.github.io/securing-flask-web-applications/)
+
+[linkedin]: https://linkedin.com/in/smirnovam
+[blog]: https://smirnov-am.github.io/
+[stackoverflow]: https://stackoverflow.com/users/4947938/alexey-smirnov
