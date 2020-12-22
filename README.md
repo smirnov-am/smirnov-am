@@ -25,7 +25,6 @@ AWS ☁️
 ### Flask
 
 - [Background jobs with Flask](https://smirnov-am.github.io/background-jobs-with-flask/)
-
 - [Running Flask in production with Docker](https://smirnov-am.github.io/running-flask-in-production-with-docker/)
 - [Securing Flask web applications](https://smirnov-am.github.io/securing-flask-web-applications/)
 - [How to increase Flask performance](https://smirnov-am.github.io/flask-perf/)
