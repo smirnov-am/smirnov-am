@@ -25,7 +25,7 @@ AWS ☁️
 ### Flask
 
 - [Background jobs with Flask](https://smirnov-am.github.io/background-jobs-with-flask/)
-- [Speeding up Python code with Cython](https://smirnov-am.github.io/cython/)
+
 - [Running Flask in production with Docker](https://smirnov-am.github.io/running-flask-in-production-with-docker/)
 - [Securing Flask web applications](https://smirnov-am.github.io/securing-flask-web-applications/)
 - [How to increase Flask performance](https://smirnov-am.github.io/flask-perf/)
@@ -37,8 +37,8 @@ AWS ☁️
 - [Using NLTK library with AWS Lambda](https://smirnov-am.github.io/using-nltk-library-with-aws-lambda/)
 - [Run Flask on AWS ECS (Fargate)](https://smirnov-am.github.io/run-flask-on-aws-ecs/)
 
-### Computer vision for VFX
-- [Chroma Keying with OpenCV/C++](https://smirnov-am.github.io/chromakeying/) | [Video version](https://youtu.be/Q7X4agNKU3k)
+### VFX with OpenCV and C++
+- [Chroma Keying](https://smirnov-am.github.io/chromakeying/) | [Video version](https://youtu.be/Q7X4agNKU3k) | [Demo](https://www.youtube.com/watch?v=Q7X4agNKU3k&t=397s)
 
 
 
