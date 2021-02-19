@@ -16,6 +16,11 @@ AWS ☁️
 
 ## My Top Articles 
 
+### VFX with OpenCV and C++
+- [Chroma Keying](https://smirnov-am.github.io/chromakeying/) | [Video version](https://youtu.be/Q7X4agNKU3k) | [Demo](https://www.youtube.com/watch?v=Q7X4agNKU3k&t=397s)
+- [Rotoscoping](https://smirnov-am.github.io/mattings/) | [Video version](https://www.youtube.com/watch?v=mjICppNKeLk) | [Demo](https://www.youtube.com/watch?v=psfRiN_H9FM)
+
+
 ### Python
 
 - [Speeding up Python code with Cython](https://smirnov-am.github.io/cython/)
@@ -36,8 +41,6 @@ AWS ☁️
 - [Using NLTK library with AWS Lambda](https://smirnov-am.github.io/using-nltk-library-with-aws-lambda/)
 - [Run Flask on AWS ECS (Fargate)](https://smirnov-am.github.io/run-flask-on-aws-ecs/)
 
-### VFX with OpenCV and C++
-- [Chroma Keying](https://smirnov-am.github.io/chromakeying/) | [Video version](https://youtu.be/Q7X4agNKU3k) | [Demo](https://www.youtube.com/watch?v=Q7X4agNKU3k&t=397s)
 
 
 
