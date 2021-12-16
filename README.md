@@ -37,7 +37,7 @@ AWS ☁️
 ### AWS
 
 - [CI/CD pipeline for AWS Lambda (Python runtime)
-](https://smirnov-am.github.io/ci-ci-pipeline-for-aws-lambda-python-runtime/)
+](https://smirnov-am.github.io/ci-cd-pipeline-for-aws-lambda-python-runtime/)
 - [Using NLTK library with AWS Lambda](https://smirnov-am.github.io/using-nltk-library-with-aws-lambda/)
 - [Run Flask on AWS ECS (Fargate)](https://smirnov-am.github.io/run-flask-on-aws-ecs/)
 
