@@ -1,53 +1,21 @@
-Software developer since 2015.
+👋 Hi! I'm a software developer 
 
-Web development, data engineering, DevOps, computer vision 
-
-Python 🐍 | 
-C++ ⚡  |
-AWS ☁️ 
+Python 🐍  | AWS ☁️ 
 
 
 [<img align="left" alt="LinkedIn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
 
-[<img align="left" alt="Blog | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rss.svg" />][blog] 
+[<img align="left" alt="Instagram | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] 
 
 
-[<img align="left" alt="Blog | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]<br/>
+## My projects 
 
-## My Top Articles 
-
-### VFX with OpenCV and C++
-- [Chroma Keying](https://smirnov-am.github.io/chromakeying/) | [Video version](https://youtu.be/Q7X4agNKU3k) | [Demo](https://www.youtube.com/watch?v=Q7X4agNKU3k&t=397s)
-- [Rotoscoping](https://smirnov-am.github.io/mattings/) | [Video version](https://www.youtube.com/watch?v=mjICppNKeLk) | [Demo](https://www.youtube.com/watch?v=psfRiN_H9FM)
-
-
-### Python
-
-- [Speeding up Python code with Cython](https://smirnov-am.github.io/cython/)
-- [Python linters for better code quality](https://smirnov-am.github.io/python-linters-for-better-code-quality/)
-- [[Series]Testing Python code with pytest](https://smirnov-am.github.io/pytest-why-testing/)
-
-### Flask
-
-- [Background jobs with Flask](https://smirnov-am.github.io/background-jobs-with-flask/)
-- [Running Flask in production with Docker](https://smirnov-am.github.io/running-flask-in-production-with-docker/)
-- [Securing Flask web applications](https://smirnov-am.github.io/securing-flask-web-applications/)
-- [How to increase Flask performance](https://smirnov-am.github.io/flask-perf/)
-
-### AWS
-
-- [CI/CD pipeline for AWS Lambda (Python runtime)
-](https://smirnov-am.github.io/ci-cd-pipeline-for-aws-lambda-python-runtime/)
-- [Using NLTK library with AWS Lambda](https://smirnov-am.github.io/using-nltk-library-with-aws-lambda/)
-- [Run Flask on AWS ECS (Fargate)](https://smirnov-am.github.io/run-flask-on-aws-ecs/)
-
-
-
-
-
-  
+- [Hosting of Telegram Store bots](https://telegr.store/)
+- [Music video maker for TikTok](https://draai.me)
+- [Tech Blog](https://smirnov-am.github.io)
 
 
 [linkedin]: https://linkedin.com/in/smirnovam
 [blog]: https://smirnov-am.github.io/
 [stackoverflow]: https://stackoverflow.com/users/4947938/alexey-smirnov
+[instagram]: [https://stackoverflow.com/users/4947938/alexey-smirnov](https://www.instagram.com/iam.alex.smirnov/)
