@@ -14,4 +14,4 @@
 [linkedin]: https://linkedin.com/in/smirnovam
 [blog]: https://smirnov-am.github.io/
 [stackoverflow]: https://stackoverflow.com/users/4947938/alexey-smirnov
-[instagram]: [https://stackoverflow.com/users/4947938/alexey-smirnov](https://www.instagram.com/iam.alex.smirnov/)
+[instagram]: https://www.instagram.com/iam.alex.smirnov/
