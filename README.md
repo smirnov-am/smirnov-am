@@ -1,4 +1,4 @@
-👋 Hi! I do Python 🐍  & AWS ☁️ 
+👋 
 
 ## My projects 
 
