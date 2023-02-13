@@ -5,7 +5,6 @@
 ## My projects 
 
 - 🚀 [Telegram eCommerce bots platform](https://telegr.store/)
-- 🎛️ [Music video maker for TikTok/Reels/Shorts](https://draai.me)
 - 💾 [Tech Blog](https://smirnov-am.github.io)
 
 
