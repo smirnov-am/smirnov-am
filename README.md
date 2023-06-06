@@ -3,7 +3,7 @@
 
 
 ## My projects 
-
+- 💿 [BandCamp bot](https://t.me/bandcamp_release_radar_bot)
 - 🚀 [Telegram eCommerce bots platform](https://telegr.store/)
 - 💾 [Tech Blog](https://smirnov-am.github.io)
 
